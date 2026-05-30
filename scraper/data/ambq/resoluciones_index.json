@@ -1,0 +1,1362 @@
+[
+  {
+    "empresa": "COOTRAB",
+    "descripcion": "COOTRAB C5-4136 y C6-4137 Resolución Metropolitana 378 – 23",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2026/03/RESOLUCION-METROPOLITANA-No-7.pdf"
+  },
+  {
+    "empresa": "COOTRAB",
+    "descripcion": "COOTRAB Resolución Metropolitana 358 – 24",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2024/12/RESOLUCION-METROPOLITANA-358-24.pdf"
+  },
+  {
+    "empresa": "COOTRAB",
+    "descripcion": "COOTRAB C5 – 4136 y C6 – 4137 Resolución Metropolitana 200 – 19",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2019/11/RESOLUCION-N-200-1920190820.pdf"
+  },
+  {
+    "empresa": "COOTRAB",
+    "descripcion": "COOTRAB C5 y C6. Resolución No. 303 -14",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/11/COOTRAB-C5-C6-Resolucion-303-14.pdf"
+  },
+  {
+    "empresa": "COOTRAB",
+    "descripcion": "COOTRAB Resolución Metropolitana 319 – 16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2018/09/Resolucion_319-16.pdf"
+  },
+  {
+    "empresa": "COOTRAB",
+    "descripcion": "COOTRAB Resolución 121-15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2019/02/resolucion-121-15.pdf"
+  },
+  {
+    "empresa": "COOTRAB",
+    "descripcion": "COOTRAB C5 Resolución 282-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRAB/COOTRAB-C5-resolucion-282-11.pdf"
+  },
+  {
+    "empresa": "COOTRAB",
+    "descripcion": "COOTRAB C5-C6 Resolución 156-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRAB/COOTRAB-C5-C6-Resolucion-156-10.pdf"
+  },
+  {
+    "empresa": "COOTRAB",
+    "descripcion": "COOTRAB C5-C6 Resolución 174-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRAB/COOTRAB-C5-C6-Resolucion-174-11.pdf"
+  },
+  {
+    "empresa": "COOTRAB",
+    "descripcion": "COOTRAB C5-C6 Resolución 497-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRAB/COOTRAB-C5-C6-Resolucion-497-10.pdf"
+  },
+  {
+    "empresa": "TRANSMECAR",
+    "descripcion": "TRANSMECAR 2101 Resolución 241-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSMECAR/TRANSMECAR-2101-Resolucion-241-10.pdf"
+  },
+  {
+    "empresa": "TRANSMECAR",
+    "descripcion": "TRANSMECAR 2106 Resolución 239-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSMECAR/TRANSMECAR-2106-Resolucion-239-10.pdf"
+  },
+  {
+    "empresa": "TRANSMECAR",
+    "descripcion": "TRANSMECAR 2106 Resolución 240-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSMECAR/TRANSMECAR-2106-Resolucion-240-10.pdf"
+  },
+  {
+    "empresa": "TRANSMECAR",
+    "descripcion": "TRANSMECAR C17 Resolución 324-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSMECAR/TRANSMECAR-C17-Resolucion-324-10.pdf"
+  },
+  {
+    "empresa": "TRANSMECAR",
+    "descripcion": "TRANSMECAR D9 Resolución 221-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSMECAR/TRANSMECAR-D9-Resolucion-221-10.pdf"
+  },
+  {
+    "empresa": "TRANSMECAR",
+    "descripcion": "TRANSMECAR D10 Resolución 220-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSMECAR/TRANSMECAR-D10-Resolucion-220-10.pdf"
+  },
+  {
+    "empresa": "TRANSMECAR",
+    "descripcion": "TRANSMECAR D10 Resolución 325-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSMECAR/TRANSMECAR-D10-Resolucion-325-10.pdf"
+  },
+  {
+    "empresa": "TRANSMECAR",
+    "descripcion": "TRANSMECAR D11 Resolución 219-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSMECAR/TRANSMECAR-D11-Resolucion-219-10.pdf"
+  },
+  {
+    "empresa": "FLOTA ROJA",
+    "descripcion": "FLOTA ROJA Resolución 260-24",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2024/10/RESOLUCION-METROPOLITANA-N%C2%B0-260-2024-FLOTA-ROJA.pdf"
+  },
+  {
+    "empresa": "FLOTA ROJA",
+    "descripcion": "FLOTA ROJA Resolución 235-14",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/FLOTA-ROJA/Resolucion-235-14-flota-roja.pdf"
+  },
+  {
+    "empresa": "FLOTA ROJA",
+    "descripcion": "FLOTA ROJA A8 Resolución 117-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/FLOTA-ROJA/FLOTA-ROJA-A8-Resolucion-117-10.pdf"
+  },
+  {
+    "empresa": "FLOTA ROJA",
+    "descripcion": "FLOTA ROJA A8 Resolución 145-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/FLOTA-ROJA/FLOTA-ROJA-A8-Resolucion-145-11.pdf"
+  },
+  {
+    "empresa": "FLOTA ROJA",
+    "descripcion": "FLOTA ROJA A9 Resolución 115-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/FLOTA-ROJA/FLOTA-ROJA-A9-Resolucion-115-10.pdf"
+  },
+  {
+    "empresa": "FLOTA ROJA",
+    "descripcion": "FLOTA ROJA A9 Resolución 148-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/FLOTA-ROJA/FLOTA-ROJA-A9-Resolucion-148-11.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ Resolución Metropolitana No. 501-2025",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2026/02/Resolucion-Metropolitana-No.-501-2025-TRANSDIAZ.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ B16 – 4130 Resolución Metropolitana 266 – 19",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2019/10/RESOLUCION-METROPOLITANA-266-1920191008.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ A10 – A11 – B16 – PT1. Resolución No. 310 -14",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/11/TRANSDIAZ-A10A11B16PT1-Resolucion-310-14.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ Resolución 323 – 16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/05/Resolucion-N%C2%B0-323-17.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ Resolución 180-16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSDIAZ/Resolucion-180-transdiaz.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ A10 Resolución 277-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSDIAZ/TRANSDIAZ-A10-Resolucion-277-10.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ A10 Resolución 433-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSDIAZ/TRANSDIAZ-A10-Resolucion-433-10.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ A10-A11 Resolución 576-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSDIAZ/TRANSDIAZ-A10-A11-Resolucion-576-10.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ A11 Resolución 276-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSDIAZ/TRANSDIAZ-A11-Resolucion-276-10.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ A11 Resolución 432-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSDIAZ/TRANSDIAZ-A11-Resolucion-432-10.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ A12 Resolución 275-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSDIAZ/TRANSDIAZ-A12-Resolucion-275-10.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ A12 Resolución 431-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSDIAZ/TRANSDIAZ-A12-Resolucion-431-10.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ A17 Resolución 274-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSDIAZ/TRANSDIAZ-A17-Resolucion-274-10.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ A17 Resolución 430-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSDIAZ/TRANSDIAZ-A17-Resolucion-430-10.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ B16 Resolución 278-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSDIAZ/TRANSDIAZ-B16-Resolucion-278-10.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ B16 Resolución 429-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSDIAZ/TRANSDIAZ-B16-Resolucion-429-10.pdf"
+  },
+  {
+    "empresa": "TRANSDIAZ",
+    "descripcion": "TRANSDIAZ PT1 Resolución 189-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSDIAZ/TRANSDIAZ-PT1-Resolucion-189-10.pdf"
+  },
+  {
+    "empresa": "EMBUSA",
+    "descripcion": "EMBUSA B9-4125 Resolución 231-2025",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2026/03/RESOLUCION-M.-231-2025-L.pdf"
+  },
+  {
+    "empresa": "EMBUSA",
+    "descripcion": "EMBUSA B9-4125 Resolución 010-2026",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2026/01/RESOLUCION-REESTRUCTURACION-EMBUSA-ENE-2026.pdf"
+  },
+  {
+    "empresa": "EMBUSA",
+    "descripcion": "EMBUSA B9 Resolución 293-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/EMBUSA/EMBUSA-B9-Resolucion-293-10.pdf"
+  },
+  {
+    "empresa": "EMBUSA",
+    "descripcion": "EMBUSA B9 Resolución 293-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/EMBUSA/EMBUSA-B9-Resolucion-293-10.pdf"
+  },
+  {
+    "empresa": "MONTERREY",
+    "descripcion": "MONTERREY Resolución Metropolitana No. 390 -18",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2018/11/Resolucion-Metropolitana-390-18.pdf"
+  },
+  {
+    "empresa": "MONTERREY",
+    "descripcion": "MONTERREY Resolución 437-16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/MONTERREY/RESOL-404-13-MONTERREY.pdf"
+  },
+  {
+    "empresa": "MONTERREY",
+    "descripcion": "MONTERREY B11-4166 Resolución 404 – 13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/MONTERREY/RESOL-404-13-MONTERREY.pdf"
+  },
+  {
+    "empresa": "MONTERREY",
+    "descripcion": "MONTERREY B8-4124 Resolución 403 – 13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/MONTERREY/RESOL-403-13-MONTERREY.pdf"
+  },
+  {
+    "empresa": "MONTERREY",
+    "descripcion": "MONTERREY B12 4127 Resolución 402- 13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/MONTERREY/RESOL-402-13-MONTERREY.pdf"
+  },
+  {
+    "empresa": "MONTERREY",
+    "descripcion": "MONTERREY Resolución 294-13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/MONTERREY/RESOLUCION-294-13-MONTERREY.pdf"
+  },
+  {
+    "empresa": "MONTERREY",
+    "descripcion": "MONTERREY 1702 Resolución 301-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/MONTERREY/MONTERREY-1702-Resolucion-301-10.pdf"
+  },
+  {
+    "empresa": "MONTERREY",
+    "descripcion": "MONTERREY 1704 Resolución 300-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/MONTERREY/MONTERREY-1704-Resolucion-300-10.pdf"
+  },
+  {
+    "empresa": "MONTERREY",
+    "descripcion": "MONTERREY 1706 Resolución 299-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/MONTERREY/MONTERREY-1706-Resolucion-299-10.pdf"
+  },
+  {
+    "empresa": "MONTERREY",
+    "descripcion": "MONTERREY B8 Resolución 298-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/MONTERREY/MONTERREY-B8-Resolucion-298-10.pdf"
+  },
+  {
+    "empresa": "MONTERREY",
+    "descripcion": "MONTERREY B11 Resolución 296-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/MONTERREY/MONTERREY-B11-Resolucion-296-10.pdf"
+  },
+  {
+    "empresa": "MONTERREY",
+    "descripcion": "MONTERREY B12 Resolución 297-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/MONTERREY/MONTERREY-B12-Resolucion-297-10.pdf"
+  },
+  {
+    "empresa": "LA CAROLINA",
+    "descripcion": "LA CAROLINA D6-4150 y D7-4151 Resolución Metropolitana 404 – 23",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2026/03/RESOLUCION-MTC-N0.404-23-1.pdf"
+  },
+  {
+    "empresa": "LA CAROLINA",
+    "descripcion": "LA CAROLINA A16-4161 Resolución Metropolitana 199 – 19",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2019/11/RESOLUCION-N-199-1920190820.pdf"
+  },
+  {
+    "empresa": "LA CAROLINA",
+    "descripcion": "LA CAROLINA D6-4150 y D7-4151, Resolución Metropolitana 264 – 19",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2019/10/RESOLUCION-METROPOLITANA-264-1920191008.pdf"
+  },
+  {
+    "empresa": "LA CAROLINA",
+    "descripcion": "LA CAROLINA Resolución 302 – 14",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LA-CAROLINA/RESOLUCION-302-14-LA-CAROLINA.pdf"
+  },
+  {
+    "empresa": "LA CAROLINA",
+    "descripcion": "LA CAROLINA 1502 Resolución 233-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LA-CAROLINA/LA-CAROLINA-1502-Resolucion-233-10.pdf"
+  },
+  {
+    "empresa": "LA CAROLINA",
+    "descripcion": "LA CAROLINA A16 Resolución 067-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LA-CAROLINA/LA-CAROLINA-A16-Resolucion-067-11.pdf"
+  },
+  {
+    "empresa": "LA CAROLINA",
+    "descripcion": "LA CAROLINA A16 Resolución 173-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LA-CAROLINA/LA-CAROLINA-A16-Resolucion-173-10.pdf"
+  },
+  {
+    "empresa": "LA CAROLINA",
+    "descripcion": "LA CAROLINA A16 Resolución 204-12",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LA-CAROLINA/LA-CAROLINA-A16-Resolucion-204-12.pdf"
+  },
+  {
+    "empresa": "LA CAROLINA",
+    "descripcion": "LA CAROLINA D6 Resolución 174-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LA-CAROLINA/LA-CAROLINA-D6-Resolucion-174-10.pdf"
+  },
+  {
+    "empresa": "LA CAROLINA",
+    "descripcion": "LA CAROLINA D7 Resolución 175-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LA-CAROLINA/LA-CAROLINA-D7-Resolucion-175-10.pdf"
+  },
+  {
+    "empresa": "COOTRANSPORCAR",
+    "descripcion": "Resolución Metropolitana -No. 389-2025 OPERACIÓN DE RUTA C8-4139 COOTRANSPORCAR",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2025/10/Resolucion-Metropolitana-No.-389-2025-OPERACION-DE-RUTA-C8-4139-COOTRANSPORCAR.pdf"
+  },
+  {
+    "empresa": "COOTRANSPORCAR",
+    "descripcion": "COOTRANSPORCAR C8-4139. Resolución No. 170 -17",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/12/RESOLUCIOIN-170-17-COOTRANSPORCAR.pdf"
+  },
+  {
+    "empresa": "COOTRANSPORCAR",
+    "descripcion": "COOTRANSPORCAR C8 Resolución 281-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANSPORCAR/COOTRANSPORCAR-C8-Resolucion-281-10.pdf"
+  },
+  {
+    "empresa": "COOTRANSPORCAR",
+    "descripcion": "COOTRANSPORCAR C8 Resolución 492-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANSPORCAR/COOTRANSPORCAR-C8-Resolucion-492-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL Resolución Metropolitana No. 242 -25",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2026/03/RES-M-242-2025-2.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL Resolución Metropolitana No. 387 -18",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2018/11/Resolucion-Metropolitana-387-18.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL D20-4185. Resolución No. 076 -17",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/12/Resolucion-076-17.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL Resolución 193-15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/Resolucion-Metropolitana-193-15.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL Resolución 171-15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/Resolucion-171-15-reestructuracion.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL Resolución 308 -14",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/308-RESOLUCION-COOCHOFAL.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL Resolución 407-13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/RESOLUCION-407-13-REESTRUCTURACION-COOCHOFAL.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL 301 Resolución 256-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-301-Resolucion-256-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL 302 Resolución 258-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-302-Resolucion-258-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL 304 Resolución 259-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-304-Resolucion-259-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL 306 Resolución 255-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-306-Resolucion-255-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL 307 Resolución 254-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-307-Resolucion-254-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL 309 Resolución 252-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-309-Resolucion-252-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL 310 Resolución 251-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-310-Resolucion-251-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL 311 Resolución 253-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-311-Resolucion-253-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL 312 Resolución 257-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-312-Resolucion-257-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL A15 Resolución 247-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-A15-Resolucion-247-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL A15 Resolución 263-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-A15-Resolucion-263-11.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL C2 Resolución 112-12",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-C2-Resolucion-112-12.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL C2 Resolución 249-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-C2-Resolucion-249-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL C3 Resolución 246-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-C3-Resolucion-246-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL C3 Resolución 351-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-C3-Resolucion-351-11.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL C4 Resolución 069-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-C4-Resolucion-069-11.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL C4 Resolución 248-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-C4-Resolucion-248-10.pdf"
+  },
+  {
+    "empresa": "COOCHOFAL",
+    "descripcion": "COOCHOFAL C9-C18 Resolución 250-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOCHOFAL/COOCHOFAL-C9-C18-Resolucion-250-10.pdf"
+  },
+  {
+    "empresa": "TRASALFA",
+    "descripcion": "TRASALFA Resolución Metropolitana 139 – 13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALFA/resolucion-139-13.pdf"
+  },
+  {
+    "empresa": "TRASALFA",
+    "descripcion": "TRASALFA 2502 Resolucion 282-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALFA/TRASALFA-2502-Resolucion-282-10.pdf"
+  },
+  {
+    "empresa": "TRASALFA",
+    "descripcion": "TRASALFA 2504 Resolución 283-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALFA/TRASALFA-2504-Resolucion-283-10.pdf"
+  },
+  {
+    "empresa": "TRASALFA",
+    "descripcion": "TRASALFA 2505 Resolución 284-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALFA/TRASALFA-2505-Resolucion-284-10.pdf"
+  },
+  {
+    "empresa": "TRASALFA",
+    "descripcion": "TRASALFA B2B Resolución 111-12",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALFA/TRASALFA-B2B-Resolucion-111-12.pdf"
+  },
+  {
+    "empresa": "TRASALFA",
+    "descripcion": "TRASALFA B2B Resolución 287-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALFA/TRASALFA-B2B-Resolucion-287-10.pdf"
+  },
+  {
+    "empresa": "TRASALFA",
+    "descripcion": "TRASALFA D14 Resolución 286-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALFA/TRASALFA-D14-Resolucion-286-10.pdf"
+  },
+  {
+    "empresa": "TRASALFA",
+    "descripcion": "TRASALFA D15 Resolución 285-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALFA/TRASALFA-D15-Resolucion-285-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL Resolución Metropolitana No. 210-2026 - PT2 y PT3",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2026/05/RESOLUCION-METROPOLITANA-No.-210-2026-COOLITORAL-PT2-y-PT3_.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL Resolución Metropolitana 332-23",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2026/03/RESOLUCION-METROPOLITANA-332-2023.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL Resolución Metropolitana 192-2025",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2025/06/RESOLUCION-METROPOLITANA-No.-192-2025.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL Resolución Metropolitana 199-2025 ERROR FORMAL",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2025/06/RESOLUCION-M.-199-2025-ERROR-FORMAL.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL Resolución Metropolitana 264-24",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2024/12/RESOLUCION-METROPOLITANA-264-24.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL Resolución Metropolitana 718-18",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2018/11/Resolucion-Metropolitana-718-18.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORIAL B17. Resolución No. 270 -14",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/11/COOLITORAL-B17-Resolucion-270-14.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORIAL Resolución 321 – 16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/05/Resolucion-N%C2%B0-321-17.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORIAL Resolución 181 – 16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads//2016/RESOLUCIONES-DE-RUTAS/SODETRANS/Resolucion-181-16-sodetrans.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORIAL Resolución 325 – 16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/01/Resolucion-N%C2%B0-325-16-.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORIAL Resolución 120-15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/RESOLUCION-120-15-TRANSPORTES-COOLITORAL.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL Resolución 059-16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/Resolucion-059-16.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL Resolución 182-16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/resolucion-182-16-coolitoral-ilovepdf-compressed.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL Resolución 306 – 14",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/306-RESOLUCION-COOLITORAL.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL Resolución 339 – 13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/RESOLUCION-339-13-COOLITORAL.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL Resolución 340 – 13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/RESOLUCION-340-13-COOLITORAL.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL 110 Resolución 237-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-110-Resolucion-237-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL 113 Resolución 238-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-113-Resolucion-238-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL 114 Resolución 236-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-114-Resolucion-236-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL A1 Resolución 137-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-A1-Resolucion-137-11.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL A1 Resolución 154-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-A1-Resolucion-154-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL A2 Resolución 138-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-A2-Resolucion-138-11.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL A2 Resolución 150-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-A2-Resolucion-150-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL A3 Resolución 153-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-A2-Resolucion-150-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL A4 Resolución 146-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-A4-Resolucion-146-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL B1 Resolución 147-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-B1-Resolucion-147-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL B2A Resolución 149-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-B2A-Resolucion-149-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL B2A Resolución 223-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-B2A-Resolucion-223-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL B3 Resolución 068-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-B3-Resolucion-068-11.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL B3 Resolución 148-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-B3-Resolucion-148-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL B17 Resolución 190-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-B17-Resolucion-190-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL C19 Resolución 152-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-C19-Resolucion-152-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL PT1 Resolución 189-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-PT1-Resolucion-189-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL PT2 Resolución 151-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-PT2-Resolucion-151-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL PT3 Resolución 145-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-PT3-Resolucion-145-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL PT4 Resolución 144-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-PT4-Resolucion-144-10.pdf"
+  },
+  {
+    "empresa": "COOLITORAL",
+    "descripcion": "COOLITORAL PT5 Resolución 155-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOLITORAL/COOLITORAL-PT5-Resolucion-155-10.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO Resolución Metropolitana No. 462 -25.",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2025/12/RESOLUCION-METROPOLITANA-No-462-2025-COOTRANTICO.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO Resolución Metropolitana No. 284 -24.",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2024/10/RESOLUCION-METROPOLITANA-N%C2%B0-284-2024.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO Resolución Metropolitana No. 259 -24.",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2024/10/RESOLUCION-METROPOLITANA-N%C2%B0-259-2024-COOTRANTICO.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO Resolución Metropolitana No. 388 -18.",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2018/11/Resolucion-Metropolitana-388-18.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO B7. Resolución No. 324-16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/11/COOTRANTICO-B7-Resolucion-324-16.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO Resolución 150-15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/Resolucion-N%C2%B0-150-15-cootrantico.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO Resolución 212-16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/RESOLUCION-212-16.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO Resolución 309 -14",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/DOC2015-04-24-2.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO A18 Resolución 406-13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/COOTRANTICO-A18-Resolucion-406-13.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO 904 Resolución 332-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/COOTRANTICO-904-Resolucion-332-10.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO 906 Resolución 330-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/COOTRANTICO-906-Resolucion-330-10.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO B4-B7 Resolución 243-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/COOTRANTICO-B4-B7-Resolucion-243-10.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO B4-B7 Resolución 450-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/COOTRANTICO-B4-B7-Resolucion-450-10.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO B5 Resolución 245-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/COOTRANTICO-B5-Resolucion-245-10.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO B5 Resolución 449-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/COOTRANTICO-B5-Resolucion-449-10.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO B6 Resolución 149-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/COOTRANTICO-B6-Resolucion-149-11.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO B6 Resolución 244-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/COOTRANTICO-B6-Resolucion-244-10.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO B20 Resolución 025-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/COOTRANTICO-B20-Resolucion-331-10.pdf"
+  },
+  {
+    "empresa": "COOTRANTICO",
+    "descripcion": "COOTRANTICO B20 Resolución 331-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANTICO/COOTRANTICO-B20-Resolucion-331-10.pdf"
+  },
+  {
+    "empresa": "LOLAYA",
+    "descripcion": "LOLAYA Resolución Metropolitana No. 068 -2025",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2025/02/LOLAYA-Resolucion-Metropolitana-068-2025.pdf"
+  },
+  {
+    "empresa": "LOLAYA",
+    "descripcion": "LOLAYA Resolución Metropolitana No. 389 -18.",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2018/11/Resolucion-Metropolitana-389-18.pdf"
+  },
+  {
+    "empresa": "LOLAYA",
+    "descripcion": "LOLAYA B10-4126 Resolución 446 – 13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LOLAYA/RESOL-446-13-LOLAYA.pdf"
+  },
+  {
+    "empresa": "LOLAYA",
+    "descripcion": "LOLAYA D8-4165 Resolución 405 -13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LOLAYA/RESOL-405-13LOLAYA.pdf"
+  },
+  {
+    "empresa": "LOLAYA",
+    "descripcion": "LOLAYA Resolución 295-13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LOLAYA/RESOLUCIONN-295-13-TRANSPORTES-LOLAYA.pdf"
+  },
+  {
+    "empresa": "LOLAYA",
+    "descripcion": "LOLAYA 1602 Resolución 329-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LOLAYA/LOLAYA-1602-Resolucion-329-10.pdf"
+  },
+  {
+    "empresa": "LOLAYA",
+    "descripcion": "LOLAYA 1604 Resolución 328-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LOLAYA/LOLAYA-1604-Resolucion-328-10.pdf"
+  },
+  {
+    "empresa": "LOLAYA",
+    "descripcion": "LOLAYA B10 Resolución 327-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LOLAYA/LOLAYA-B10-Resolucion-327-10.pdf"
+  },
+  {
+    "empresa": "LOLAYA",
+    "descripcion": "LOLAYA B10-D8 Resolución 463-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LOLAYA/LOLAYA-B10-D8-Resolucion-463-10.pdf"
+  },
+  {
+    "empresa": "LOLAYA",
+    "descripcion": "LOLAYA D8 Resolución 326-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/LOLAYA/LOLAYA-D8-Resolucion-326-10.pdf"
+  },
+  {
+    "empresa": "COOTRANSCO",
+    "descripcion": "COOTRANSCO Resolución 098 – 26",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2026/03/RESOLUCION-METROPOLITANA-No-PILOTO-098-26-COOTRANSCO.pdf"
+  },
+  {
+    "empresa": "COOTRANSCO",
+    "descripcion": "COOTRANSCO Resolución 258 – 24",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2024/10/RESOLUCION-METROPOLITANA-N%C2%B0-258-2024-COOTRANSCO.pdf"
+  },
+  {
+    "empresa": "COOTRANSCO",
+    "descripcion": "COOTRANSCO Resolución 024 – 17",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/02/Resolucion-metropolitana-024-17.pdf"
+  },
+  {
+    "empresa": "COOTRANSCO",
+    "descripcion": "COOTRANSCO C7 Resolución 120-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANSCO/COOTRANSCO-C7-Resolucion-120-10.pdf"
+  },
+  {
+    "empresa": "COOTRANSCO",
+    "descripcion": "COOTRANSCO C7 Resolución 222-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANSCO/COOTRANSCO-C7-Resolucion-222-10.pdf"
+  },
+  {
+    "empresa": "COOTRASOL",
+    "descripcion": "COOTRASOL Resolución Metropolitana No 467-2025 Permiso de operación ",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2025/12/Resolucion-Metropolitana-No-467-2025-Permiso-de-operacion-cootrasol.pdf"
+  },
+  {
+    "empresa": "COOTRASOL",
+    "descripcion": "COOTRASOL Resolución Metropolitana No. 386 – 18",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2018/11/Resolucion-Metropolitana-386-18.pdf"
+  },
+  {
+    "empresa": "COOTRASOL",
+    "descripcion": "COOTRASOL Resolución Metropolitana No. 386 – 18",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2018/11/Resolucion-Metropolitana-386-18.pdf"
+  },
+  {
+    "empresa": "COOTRASOL",
+    "descripcion": "COOTRASOL D3 y D5. Resolución 060-16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/11/COOTRASOL-D3-D5-Resolucion-060-16.pdf"
+  },
+  {
+    "empresa": "COOTRASOL",
+    "descripcion": "COOTRASOL D3 y D5. Resolución No. 381-15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/11/COOTRASOL-D3-D5-Resolucion-381-15.pdf"
+  },
+  {
+    "empresa": "COOTRASOL",
+    "descripcion": "COOTRASOL 1001 Resolución 234-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRASOL/COOTRASOL-1001-Resolucion-234-10.pdf"
+  },
+  {
+    "empresa": "COOTRASOL",
+    "descripcion": "COOTRASOL 1004 Resolución 235-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRASOL/COOTRASOL-1004-Resolucion-235-10.pdf"
+  },
+  {
+    "empresa": "COOTRASOL",
+    "descripcion": "COOTRASOL D3 Resolución 214-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRASOL/COOTRASOL-D3-Resolucion-214-10.pdf"
+  },
+  {
+    "empresa": "COOTRASOL",
+    "descripcion": "COOTRASOL D3 Resolución 365-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRASOL/COOTRASOL-D3-Resolucion-365-10.pdf"
+  },
+  {
+    "empresa": "COOTRASOL",
+    "descripcion": "COOTRASOL D4 Resolución 213-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRASOL/COOTRASOL-D4-Resolucion-213-10.pdf"
+  },
+  {
+    "empresa": "COOTRASOL",
+    "descripcion": "COOTRASOL D5 Resolución 197-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRASOL/COOTRASOL-D5-Resolucion-197-10.pdf"
+  },
+  {
+    "empresa": "COOTRASOL",
+    "descripcion": "COOTRASOL D5 Resolución 247-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRASOL/COOTRASOL-D5-Resolucion-247-11.pdf"
+  },
+  {
+    "empresa": "COOTRASOL",
+    "descripcion": "COOTRASOL D5 Resolución 366-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRASOL/COOTRASOL-D5-Resolucion-366-10.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA Resolución Metropolitana No. 082-2026 PERMISO DE OPERACIÓN DE LA RUTA B18-4175",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2026/03/RESOLUCION-M-082-2026.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA Resolución Metropolitana No. 466-2025 PERMISO DE OPERACIÓN DE LAS RUTAS B18-4175, C11-4168, C12-4169, С13-4143, C14-4170 Y C16-4167 ",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2026/03/Permiso-de-operacion-subusa-2.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA Resolución Metropolitana No. 225-2025 REESTRUCTURACION B18-4175",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2025/06/RESOLUCION-No.-225-2025-REESTRUCTURACION-SOBUSA-B18-4175.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA Resolución Metropolitana No. 173-2025",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2025/05/Sobusa-RESOLUCION-METROPOLITANA-No.-173-2025.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA Resolución Metropolitana No. 389-23",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2026/03/SG04122023RESOLUCION-METROPOLITANA-No.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA Resolución Metropolitana No. 349-24",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2024/12/RESOLUCION-METROPOLITANA-349-24.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA C12 y C13. Resolución No. 050-17",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/11/SOBUSA-C12-C13-Resolucion-050-17.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA Resolución 399-15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SOBUSA/resolucion-399-15.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA Resolución 307 – 14",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SOBUSA/307-RESOLUCION-SOBUSA.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA Resolución 341 – 13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/RESOLUCION-341-13-SOBUSA.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA 1806 Resolución 232-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SOBUSA/SOBUSA-1806-Resolucion-232-10.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA 1806 Resolución 398-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SOBUSA/SOBUSA-1806-Resolucion-398-10.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA B18 Resolución 093-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SOBUSA/SOBUSA-B18-Resolucion-093-11.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA B18 Resolución 180-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SOBUSA/SOBUSA-B18-Resolucion-180-10.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA B18 Resolución 281-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SOBUSA/SOBUSA-B18-Resolucion-281-11.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA C11 Resolución 176-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SOBUSA/SOBUSA-C11-Resolucion-176-10.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA C11-C12-C13-C14-C16 Resolución 210-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SOBUSA/SOBUSA-C11-C12-C13-C14-C16-Resolucion-210-10.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA C12 Resolución 177",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SOBUSA/SOBUSA-C12-Resolucion-177.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA C13 Resolución 185-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SOBUSA/SOBUSA-C13-Resolucion-185-10.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA C14 Resolución 178-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SOBUSA/SOBUSA-C14-Resolucion-178-10.pdf"
+  },
+  {
+    "empresa": "SOBUSA",
+    "descripcion": "SOBUSA C16 Resolución 179-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SOBUSA/SOBUSA-C16-Resolucion-179-10.pdf"
+  },
+  {
+    "empresa": "TRANSOLEDAD",
+    "descripcion": "TRANSOLEDAD Resolución M. 188-2024",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2024/08/RESOLUCION-M.-188-2024-TRANSPORTES-SOLEDAD.pdf"
+  },
+  {
+    "empresa": "TRANSOLEDAD",
+    "descripcion": "TRANSOLEDAD Resolución 338-13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSOLEDAD/RESOLUCION-338-13-TRANSOLEDAD.pdf"
+  },
+  {
+    "empresa": "TRANSOLEDAD",
+    "descripcion": "TRANSOLEDAD 2202 Resolución 231-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSOLEDAD/TRANSOLEDAD-2202-Resolucion-231-10.pdf"
+  },
+  {
+    "empresa": "TRANSOLEDAD",
+    "descripcion": "TRANSOLEDAD D13 Resolución 196-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSOLEDAD/TRANSOLEDAD-D13-Resolucion-196-10.pdf"
+  },
+  {
+    "empresa": "TRANSOLEDAD",
+    "descripcion": "TRANSOLEDAD D13 Resolución 403-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSOLEDAD/TRANSOLEDAD-D13-Resolucion-403-10.pdf"
+  },
+  {
+    "empresa": "TRANSURBAR",
+    "descripcion": "TRANSURBAR Resolución Metropolitana No. 717-18",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2018/11/Resolucion-Metropolitana-717-18.pdf"
+  },
+  {
+    "empresa": "TRANSURBAR",
+    "descripcion": "TRANSURBAR 2404. Resolución No. 279 -10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/11/TRANSURBAR-2404-Resolucion-279-10.pdf"
+  },
+  {
+    "empresa": "TRANSURBAR",
+    "descripcion": "TRANSURBAR A14- D16 –D19 Resolución 051 -17",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/11/TRANSURBAR-A14-D16-D19-Resolucion-051-17.pdf"
+  },
+  {
+    "empresa": "TRANSURBAR",
+    "descripcion": "TRANSURBAR Resolución 322 – 16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/05/Resolucion-N%C2%B0-322-17.pdf"
+  },
+  {
+    "empresa": "TRANSURBAR",
+    "descripcion": "TRANSURBAR Resolución 180-15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSURBAR/resolucion-180-15.pdf"
+  },
+  {
+    "empresa": "TRANSURBAR",
+    "descripcion": "TRANSURBAR Resolución 142-15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSURBAR/Resolucion-N%C2%B0-142-15.pdf"
+  },
+  {
+    "empresa": "TRANSURBAR",
+    "descripcion": "TRANSURBAR Resolución 241-15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSURBAR/resolucion-241-15.pdf"
+  },
+  {
+    "empresa": "TRANSURBAR",
+    "descripcion": "Resolución Metropolitana 155 – 13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSURBAR/Resolucion-metropolitana-155-13.pdf"
+  },
+  {
+    "empresa": "TRANSURBAR",
+    "descripcion": "TRANSURBAR 2401 Resolución 280-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSURBAR/TRANSURBAR-2401-Resolucion-280-10.pdf"
+  },
+  {
+    "empresa": "TRANSURBAR",
+    "descripcion": "TRANSURBAR A14 Resolución 225-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSURBAR/TRANSURBAR-A14-Resolucion-225-10.pdf"
+  },
+  {
+    "empresa": "TRANSURBAR",
+    "descripcion": "TRANSURBAR A14 Resolución 320-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSURBAR/TRANSURBAR-A14-Resolucion-320-11.pdf"
+  },
+  {
+    "empresa": "TRANSURBAR",
+    "descripcion": "TRANSURBAR D16 Resolución 224-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRANSURBAR/TRANSURBAR-D16-Resolucion-224-10.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS Resolución Metropolitana 719-18",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2018/11/Resolucion-Metropolitana-719-18.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS B17. Resolución 270 -14",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/11/SODETRANS-B17-Resolucion-270-14.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS B17. Resolución No. 031 -15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/11/SODETRANS-B17-Resolucion-031-15.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS Resolución 325 – 16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/01/Resolucion-N%C2%B0-325-16-.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS Resolución 181-16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads//2016/RESOLUCIONES-DE-RUTAS/SODETRANS/Resolucion-181-16-sodetrans.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS Resolución 216-16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SODETRANS/resolucion-216-16-ilovepdf-compressed.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS Resolución 311 – 14",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/04/Resolucion-311-14.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS B13 Resolución 459-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SODETRANS/SODETRANS-B13-Resolucion-459-10.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS B14 Resolución 457-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SODETRANS/SODETRANS-B14-Resolucion-457-10.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS B15 Resolución 458-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SODETRANS/SODETRANS-B15-Resolucion-458-10.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS B17 Resolución 190-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SODETRANS/SODETRANS-B17-Resolucion-190-10.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS C21 resolución 111-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SODETRANS/SODETRANS-C21-resolucion-111-11.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS C21 resolución 121-12",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SODETRANS/SODETRANS-C21-resolucion-121-12.pdf"
+  },
+  {
+    "empresa": "SODETRANS",
+    "descripcion": "SODETRANS C21 resolución 461-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/SODETRANS/SODETRANS-C21-resolucion-461-10.pdf"
+  },
+  {
+    "empresa": "COOTRANSNORTE",
+    "descripcion": "COOTRANSNORTE A5. Resolución 432 -13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/11/COOTRANSNORTE-A5-Resolucion-432-13.pdf"
+  },
+  {
+    "empresa": "COOTRANSNORTE",
+    "descripcion": "COOTRANSNORTE A5. Resolución No. 156 -15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2019/01/COOTRANSNORTE-A5-Resolucion-156-15.pdf"
+  },
+  {
+    "empresa": "COOTRANSNORTE",
+    "descripcion": "COOTRANSNORTE Resolución 122-15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2019/02/resolucion-122-15.pdf"
+  },
+  {
+    "empresa": "COOTRANSNORTE",
+    "descripcion": "COOTRANSNORTE Resolución 183-16",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANSNORTE/Resolucion-183-de-2016-Cootrasnorte.pdf"
+  },
+  {
+    "empresa": "COOTRANSNORTE",
+    "descripcion": "COOTRANSNORTE Resolución 208-15",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANSNORTE/Resolucion-208-15.pdf"
+  },
+  {
+    "empresa": "COOTRANSNORTE",
+    "descripcion": "COOTRANSNORTE A5 Resolución 022-14",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANSNORTE/RESOLUCION-022-14-COOTRANSNORTE.pdf"
+  },
+  {
+    "empresa": "COOTRANSNORTE",
+    "descripcion": "COOTRANSNORTE A5 Resolución 090-12",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANSNORTE/COOTRANSNORTE-A5-Resolucion-090-12.pdf"
+  },
+  {
+    "empresa": "COOTRANSNORTE",
+    "descripcion": "COOTRANSNORTE A5 Resolución 119-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANSNORTE/COOTRANSNORTE-A5-Resolucion-119-10.pdf"
+  },
+  {
+    "empresa": "COOTRANSNORTE",
+    "descripcion": "COOTRANSNORTE A5 Resolución 211-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANSNORTE/COOTRANSNORTE-A5-Resolucion-211-10.pdf"
+  },
+  {
+    "empresa": "COOTRANSNORTE",
+    "descripcion": "COOTRANSNORTE A5 Resolución 577-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANSNORTE/COOTRANSNORTE-A5-Resolucion-577-10.pdf"
+  },
+  {
+    "empresa": "COOTRANSNORTE",
+    "descripcion": "COOTRANSNORTE A6 Resolución 118-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANSNORTE/COOTRANSNORTE-A6-Resolucion-118-10.pdf"
+  },
+  {
+    "empresa": "COOTRANSNORTE",
+    "descripcion": "COOTRANSNORTE A6 Resolución 209-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOTRANSNORTE/COOTRANSNORTE-A6-Resolucion-209-10.pdf"
+  },
+  {
+    "empresa": "TRASALIANCO",
+    "descripcion": "TRASALIANCO D18-4179 Resolución 408-13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALIANCO/RESOLUCION-408-13-TRASALIANCO.pdf"
+  },
+  {
+    "empresa": "TRASALIANCO",
+    "descripcion": "TRASALIANCO 2601 Resolución 271-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALIANCO/TRASALIANCO-2601-Resolucion-271-10.pdf"
+  },
+  {
+    "empresa": "TRASALIANCO",
+    "descripcion": "TRASALIANCO 2604 Resolución 272-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALIANCO/TRASALIANCO-2604-Resolucion-272-10.pdf"
+  },
+  {
+    "empresa": "TRASALIANCO",
+    "descripcion": "TRASALIANCO 2604 Resolución 405-11",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALIANCO/TRASALIANCO-2604-Resolucion-405-11.pdf"
+  },
+  {
+    "empresa": "TRASALIANCO",
+    "descripcion": "TRASALIANCO 2605 Resolución 273-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALIANCO/TRASALIANCO-2605-Resolucion-273-10.pdf"
+  },
+  {
+    "empresa": "TRASALIANCO",
+    "descripcion": "TRASALIANCO 2608 Resolución 270-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALIANCO/TRASALIANCO-2608-Resolucion-270-10.pdf"
+  },
+  {
+    "empresa": "TRASALIANCO",
+    "descripcion": "TRASALIANCO B19 Resolución 266-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALIANCO/TRASALIANCO-B19-Resolucion-266-10.pdf"
+  },
+  {
+    "empresa": "TRASALIANCO",
+    "descripcion": "TRASALIANCO D12 Resolución 265-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALIANCO/TRASALIANCO-D12-Resolucion-265-10.pdf"
+  },
+  {
+    "empresa": "TRASALIANCO",
+    "descripcion": "TRASALIANCO D17 Resolución 268-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALIANCO/TRASALIANCO-D17-Resolucion-268-10.pdf"
+  },
+  {
+    "empresa": "TRASALIANCO",
+    "descripcion": "TRASALIANCO D17 Resolución 411-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALIANCO/TRASALIANCO-D17-Resolucion-411-10.pdf"
+  },
+  {
+    "empresa": "TRASALIANCO",
+    "descripcion": "TRASALIANCO D18 Resolución 267-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/TRASALIANCO/TRASALIANCO-D18-Resolucion-267-10.pdf"
+  },
+  {
+    "empresa": "COOASOATLAN",
+    "descripcion": "REESTRUCTURACION COOASOATLAN Resolucion Metropolitana No 369 - 2025",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2025/10/Resolucion-Metropolitana-No-369-2025-REESTRUCTURACION-COOASOATLAN.pdf"
+  },
+  {
+    "empresa": "COOASOATLAN",
+    "descripcion": "COOASOATLAN C1 y C20. Resolución No. 305 -14",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2017/11/COOASOATLAN-C1-C20-Resolucion-305-14.pdf"
+  },
+  {
+    "empresa": "COOASOATLAN",
+    "descripcion": "COOASOATLAN C1 Resolución 433-13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOASOATLAN/Resolucion-metropolitana-433-13.pdf"
+  },
+  {
+    "empresa": "COOASOATLAN",
+    "descripcion": "COOASOATLAN C1 Resolución 172-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOASOATLAN/COOASOATLAN-C1-Resolucion-172-10.pdf"
+  },
+  {
+    "empresa": "COOASOATLAN",
+    "descripcion": "COOASOATLAN C1 Resolución 218-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOASOATLAN/COOASOATLAN-C1-Resolucion-218-10.pdf"
+  },
+  {
+    "empresa": "COOASOATLAN",
+    "descripcion": "COOASOATLAN C5-C6 Resolución 497-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOASOATLAN/COOASOATLAN-C5-C6-Resolucion-497-10.pdf"
+  },
+  {
+    "empresa": "COOASOATLAN",
+    "descripcion": "COOASOATLAN C20 Resolución 173-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOASOATLAN/COOASOATLAN-C20-Resolucion-173-10.pdf"
+  },
+  {
+    "empresa": "COOASOATLAN",
+    "descripcion": "COOASOATLAN C20 Resolución 230-10",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOASOATLAN/COOASOATLAN-C20-Resolucion-230-10.pdf"
+  },
+  {
+    "empresa": "COOASOATLAN",
+    "descripcion": "COOASOATLAN C20 Resolución 455 -13",
+    "pdf_url": "https://www.ambq.gov.co/wp-content/uploads/2016/RESOLUCIONES-DE-RUTAS/COOASOATLAN/COOASOATLAN-RESOLUCION-445-13.pdf"
+  }
+]
